@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: rgb(204, 140, 140);
+}
+
+header{
+    border: solid;
+    background-color: rgb(241, 138, 64);
+    padding: 40px;
+    font-size: 35px;
+
+}
+
+#entradilla{
+    border: solid;
+    font-size: 30px;
+    background-color: rgb(75, 33, 4);
+    color:rgb(230, 198, 150);
+    padding: 30px;
+}
+
+button {
+    font-size:25px;
+    padding: 15px;
+    width:300px;
+    margin: 15px;
+}
+
+#texto{
+    float:left;
+    font-size:25px;
+    padding: 15px;
+    width:500px;
+    margin-top: 100px;   
+    margin-left:250px;
+    border: none;
+}
+
+#imagen{
+    float: right;
+    width:400px;
+    margin-right:300px;
+}
+
+footer {
+    float:none;
+    display: inline-block;
+    border: solid;
+    font-size: 25px;
+    padding: 30px;
+    width:95%;
+    margin-top:40px;
+    background-color: dimgrey;
+}
